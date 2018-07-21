@@ -1,0 +1,10 @@
+Check the pdf for details on the program.
+For a quick start, in terminal:
+
+ghci
+:l Oblig2.hs
+c 5
+r slider.txt
+l x
+
+This will create a quick demo of game of life in Haskell using a 5x5 matrix with a so called "slider" predefined.
